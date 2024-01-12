@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any mobile or web projects
 - ⚡ I just finished learning ReactJs framework
 
-
+## 🚀 Github Stats
 
 <a href="https://github.com/Amirularif">
   <img height=220 width=auto align="center" style="margin-top:10px" padding=10px src="https://github-readme-stats.vercel.app/api?username=Amirularif&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Amirul arif's GitHub Stats" />
