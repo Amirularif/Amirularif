@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - ⚡ I just finished learning ReactJs framework
 
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: column;">
   <a href="https://github.com/Amirularif">
   <img height=200 width=auto align="center" style="margin-bottom:10px" padding=10px src="https://github-readme-stats.vercel.app/api?username=Amirularif&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Amirul arif's GitHub Stats" />
 </a>
