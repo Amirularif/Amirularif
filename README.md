@@ -1,4 +1,4 @@
-<img height=430 width=900 align="center" src="https://github.com/Amirularif/Amirularif/assets/57553676/1a970bb3-e4fb-41cd-acf7-baa60f649e43" />
+<img height=430 width=900 align="center" style="margin-bottom:10px" padding-bottom=10px src="https://github.com/Amirularif/Amirularif/assets/57553676/1a970bb3-e4fb-41cd-acf7-baa60f649e43" />
 
 [![Visits Badge](https://badges.pufler.dev/visits/Amirularif/Amirularif)](https:Amirularif.dev)
 
