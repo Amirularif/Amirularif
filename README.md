@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 
 ## 🤝 Connect with me
 
-[![Linkedin](https://img.shields.io/badge/Linkedin.svg?logo=Linkedin&logoColor=white&color=0D76A8&style=for-the-badge)](https://www.linkedin.com/in/amirul-arif-gg)
+[![Linkedin](https://img.shields.io/badge/Linkedin?style=flat&logo=Linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/amirul-arif-gg)
