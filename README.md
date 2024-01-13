@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Unreal-Engine-informational?style=flat&logo=unrealengine&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Unity-informational?style=flat&logo=unity&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4AB197)
