@@ -1,5 +1,7 @@
 <img height=430 width=900 align="center" src="https://github.com/Amirularif/Amirularif/assets/57553676/1a970bb3-e4fb-41cd-acf7-baa60f649e43" />
 
+[![Visits Badge](https://badges.pufler.dev/visits/Amirularif/Amirularif)](https:Amirularif.dev)
+
 ### Hi there 👋
 I’m Amirul Arif, a full-stack Mobile and Web Developer, and creative coder with huge regard to details who specializes in front-end and back-end development. I make it my mission to translate beautiful user-interface and user-focused designs into fully functional Web/Mobile applications. I love learning and trying new things, from coding applications, discord bots, and machine learning AI to building PC setups and upgrading laptops. 
 
