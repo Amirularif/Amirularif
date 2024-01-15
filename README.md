@@ -16,19 +16,19 @@ Here are some ideas to get you started:
 
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Unity-informational?style=flat&logo=unity&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Database-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/UI-Figma-informational?style=flat&logo=figma&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/UI-AdobeXD-informational?style=flat&logo=adobexd&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/UI-Canva-informational?style=flat&logo=canva&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat-square&logo=flutter&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat-square&logo=javascript&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=react&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat-square&logo=html5&logoColor=white&color=critical)
+![](https://img.shields.io/badge/Code-Unity-informational?style=flat-square&logo=unity&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Tensorflow-informational?style=flat-square&logo=tensorflow&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat-square&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Database-Firebase-informational?style=flat-square&logo=firebase&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/UI-Figma-informational?style=flat-square&logo=figma&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/UI-AdobeXD-informational?style=flat-square&logo=adobexd&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/UI-Canva-informational?style=flat-square&logo=canva&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Git-informational?style=flat-square&logo=git&logoColor=white&color=4AB197)
 
 ## 🚀 Github Stats
 
