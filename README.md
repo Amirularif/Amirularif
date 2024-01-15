@@ -1,4 +1,4 @@
-<img height=430 width=900 align="center" src="https://github.com/Amirularif/Amirularif/assets/57553676/1a970bb3-e4fb-41cd-acf7-baa60f649e43" />
+<img height=auto width=auto align="center" src="https://github.com/Amirularif/Amirularif/assets/57553676/1a970bb3-e4fb-41cd-acf7-baa60f649e43" />
 
 <p></p>
 
