@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Unity-informational?style=flat-square&logo=unity&logoColor=white&color=lightgrey)
 ![](https://img.shields.io/badge/Code-Tensorflow-informational?style=flat-square&logo=tensorflow&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat-square&logo=css3&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Database-Firebase-informational?style=flat-square&logo=firebase&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/UI-Figma-informational?style=flat-square&logo=figma&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/UI-AdobeXD-informational?style=flat-square&logo=adobexd&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/UI-Canva-informational?style=flat-square&logo=canva&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Git-informational?style=flat-square&logo=git&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=darkgreen)
+![](https://img.shields.io/badge/Database-Firebase-informational?style=flat-square&logo=firebase&logoColor=white&color=orange)
+![](https://img.shields.io/badge/UI-Figma-informational?style=flat-square&logo=figma&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/UI-AdobeXD-informational?style=flat-square&logo=adobexd&logoColor=white&color=purple)
+![](https://img.shields.io/badge/UI-Canva-informational?style=flat-square&logo=canva&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Git-informational?style=flat-square&logo=git&logoColor=white&color=critical)
 
 ## 🚀 Github Stats
 
