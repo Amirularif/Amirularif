@@ -9,8 +9,8 @@ I’m Amirul Arif, a full-stack Mobile and Web Developer, and creative coder wit
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Machine Learning
-- 🌱 I’m currently learning Tensorflow
+- 🔭 I’m currently working on ASP.NET Web Dev
+- 🌱 I’m currently learning Blazor Framework from ASP.NET
 - 👯 I’m looking to collaborate on any mobile or web projects
 - ⚡ I just finished learning ReactJs framework
 
