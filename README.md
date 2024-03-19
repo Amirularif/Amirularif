@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 ## 💼 Technical Skills
 
+![](https://img.shields.io/badge/Code-ASP.NET-informational?style=flat-square&logo=.net&logoColor=white&color=purple)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat-square&logo=flutter&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat-square&logo=javascript&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=react&logoColor=white&color=blue)
