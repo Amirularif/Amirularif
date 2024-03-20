@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat-square&logo=flutter&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat-square&logo=javascript&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=react&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Blazor-informational?style=flat-square&logo=blazor&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat-square&logo=html5&logoColor=white&color=critical)
 ![](https://img.shields.io/badge/Code-Unity-informational?style=flat-square&logo=unity&logoColor=white&color=lightgrey)
 ![](https://img.shields.io/badge/Code-Tensorflow-informational?style=flat-square&logo=tensorflow&logoColor=white&color=orange)
