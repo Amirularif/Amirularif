@@ -42,6 +42,7 @@ Here are some ideas to get you started:
   <img height=200 width=auto align="center" style="margin-top:10rem" padding=10px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirularif&layout=compact&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+
 ## 🤝 Connect with me
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/amirul-arif-gg)
