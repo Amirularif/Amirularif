@@ -30,7 +30,7 @@ Quick info about me:
 ![](https://img.shields.io/badge/Database-Firebase-informational?style=flat-square&logo=firebase&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/UI-Figma-informational?style=flat-square&logo=figma&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/UI-Canva-informational?style=flat-square&logo=canva&logoColor=white&color=blue)
-![](https://img.shields.io/badge/UI-AdobeXD-informational?style=flat-square&logo=adobexd&logoColor=white&color=2E001D)
+![](https://img.shields.io/badge/UI-AdobeXD-informational?style=flat-square&logo=adobexd&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/VC-Git-informational?style=flat-square&logo=git&logoColor=white&color=critical)
 
 ## 🚀 Github Stats
