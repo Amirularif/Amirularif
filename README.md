@@ -9,7 +9,7 @@ I’m Amirul Arif, a Frontend Mobile and Web Developer, and creative coder with 
 
 Quick info about me:
 
-- 🔭 I’m currently working on ASP.NET Web Dev
+- 🔭 I’m currently working on ASP.NET Frontend Web Dev
 - 🌱 I’m currently learning Blazor Framework from ASP.NET
 - 👯 I’m looking to collaborate on any mobile or web projects
 - ⚡ I just finished learning ReactJs framework
