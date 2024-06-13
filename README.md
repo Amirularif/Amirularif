@@ -34,15 +34,25 @@ Quick info about me:
 ![](https://img.shields.io/badge/VC-Git-informational?style=flat-square&logo=git&logoColor=white&color=critical)
 
 ## 🚀 Github Stats
-
-<a href="https://github.com/Amirularif">
+<!-- <a href="https://github.com/Amirularif">
   <img height=220 width=auto align="center" style="margin-top:10px" padding=10px src="https://github-readme-stats.vercel.app/api?username=Amirularif&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Amirul arif's GitHub Stats" />
 </a>
+
 <p></p>
+
 <a href="https://github.com/Amirularif">
   <img height=200 width=auto align="center" style="margin-top:10rem" padding=10px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirularif&layout=compact&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+</a> -->
 
+![Amirularif's Stats](https://github-readme-stats.vercel.app/api?username=Amirularif&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+<p></p>
+
+![Amirularif's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amirularif&theme=vue-dark&hide_border=true)
+
+<p></p>
+
+![Amirularif's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amirularif&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 🤝 Connect with me
 
