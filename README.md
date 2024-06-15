@@ -48,7 +48,7 @@ Quick info about me:
 
 <p></p>
 
-![Amirularif's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amirularif&theme=vue-dark&hide_border=true)
+<!--![Amirularif's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amirularif&theme=vue-dark&hide_border=true) -->
 
 <p></p>
 
