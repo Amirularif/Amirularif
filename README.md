@@ -39,19 +39,19 @@ Quick info about me:
 </a>
 -->
 <a href="https://github.com/Amirularif">
-  <img width=450px align="center" padding=10px src="https://github-readme-stats.vercel.app/api?username=Amirularif&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+  <img width=450px align="center" padding=10px src="https://github-readme-stats.vercel.app/api?username=Amirularif&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&border_radius=12" />
 </a>
 
 <p></p>
 
 <a href="https://github.com/Amirularif">
-  <img width=450px align="center" padding=10px src="https://github-readme-streak-stats.herokuapp.com/?user=Amirularif&theme=vue-dark&hide_border=true" />
+  <img width=450px align="center" padding=10px src="https://github-readme-streak-stats.herokuapp.com/?user=Amirularif&theme=vue-dark&hide_border=true&border_radius=12" />
 </a>
 
 <p></p>
 
 <a href="https://github.com/Amirularif">
-  <img width=450px align="center" padding=10px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirularif&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&count_private=true" />
+  <img width=450px align="center" padding=10px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirularif&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&count_private=true&border_radius=12" />
 </a>
 
 <!--
