@@ -37,13 +37,24 @@ Quick info about me:
 <!-- <a href="https://github.com/Amirularif">
   <img height=220 width=auto align="center" style="margin-top:10px" padding=10px src="https://github-readme-stats.vercel.app/api?username=Amirularif&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Amirul arif's GitHub Stats" />
 </a>
+-->
+<a href="https://github.com/Amirularif">
+  <img width=450px align="center" padding=10px src="https://github-readme-stats.vercel.app/api?username=Amirularif&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+</a>
 
 <p></p>
 
 <a href="https://github.com/Amirularif">
-  <img height=200 width=auto align="center" style="margin-top:10rem" padding=10px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirularif&layout=compact&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a> -->
+  <img width=450px align="center" padding=10px src="https://github-readme-streak-stats.herokuapp.com/?user=Amirularif&theme=vue-dark&hide_border=true" />
+</a>
 
+<p></p>
+
+<a href="https://github.com/Amirularif">
+  <img width=450px align="center" padding=10px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirularif&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&count_private=true" />
+</a>
+
+<!--
 ![Amirularif's Stats](https://github-readme-stats.vercel.app/api?username=Amirularif&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 <p></p>
@@ -53,6 +64,7 @@ Quick info about me:
 <p></p>
 
 ![Amirularif's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amirularif&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&count_private=true)
+-->
 
 ## 🤝 Connect with me
 
